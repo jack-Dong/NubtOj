@@ -1,0 +1,14 @@
+2
+axb
+6
+INSERT a
+INSERT a
+INSERT a
+INSERT a
+QUERY 0
+QUERY 1
+explore
+3
+INSERT r
+QUERY 7
+QUERY 1
